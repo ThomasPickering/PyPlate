@@ -62,6 +62,7 @@ def cls():
 - Colorama v0.4.6
 
 ## Useful links
+- [colorama 0.4.6](https://pypi.org/project/colorama/ "pypi.org")
 
 ## License
 
