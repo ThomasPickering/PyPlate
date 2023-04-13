@@ -1,5 +1,5 @@
 # PyPlate
-PyPlate is an attempt to make a python cli boilerplate.
+PyPlate is an attempt to make a python cli boilerplate :-)
 
 The boilderplate includes:
 - Menu with 2 submenus
