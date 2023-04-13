@@ -12,6 +12,7 @@ The scipt started out as my first really Python project. I quickly realised, tha
 Therefore - here is my take on a python CLI Boilerplate.
 
 Have fun!
+
     ~ Thomas P.
 
 ## Usage/Notes
