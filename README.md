@@ -69,8 +69,16 @@ def cls():
 ## Useful links
 - [colorama 0.4.6](https://pypi.org/project/colorama/ "pypi.org")
 
+## Version History
+* 1.1
+    * Updated README.md file
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 1.0
+    * Initial Release
+
 ## License
-The boilerplate is under the MIT License.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 # Screenshots
 ## Main menu
