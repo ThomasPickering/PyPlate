@@ -11,9 +11,11 @@ The boilderplate includes:
 The scipt started out as my first really Python project. I quickly realised, that I was starting the whole project by doing a kind of boilderplate.
 Therefore - here is my take on a python CLI Boilerplate.
 
-Have fun!
+The boilerplate is the product of 1 week of YouTube, Google and Chat GPT-4...
 
-    ~ Thomas P.
+Please keep in mind that I am new to Python (at the time of writing), which means there are probably quite a few improvements that could be added to the script.
+
+Let me know what you think - Have fun!
 
 ## Usage/Notes
 ### Menu
