@@ -7,6 +7,9 @@ The boilderplate includes:
 - Help
 - clear screen module
 
+## Why does this script exist ?
+
+## Usage/Notes
 ### Menu
 Below is the treesctructure of the menu
 
@@ -47,11 +50,16 @@ Please notice, that there are 2 way 2 navigate back to the main menu:
         input('\nTo return to {}Main Menu{} hit {}<Enter>'.format(Fore.CYAN, Style.RESET_ALL, Fore.MAGENTA))
         main_menu() # Returning to the main menu
 ```
-
-
-## Why does this script exist ?
+### Clear scrren
+Before the main menu is called, the screen is cleared. the defifition is in the 'modules.py' file.
+```python
+def cls():
+    os.system('cls' if os.name=='nt' else 'clear')
+```
 
 ## Requirements
+- Python v.3.10
+- Colorama v0.4.6
 
 ## Useful links
 
