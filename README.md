@@ -2,43 +2,13 @@
 PyPlate is an attempt to make a python cli boilerplate.
 
 The boilderplate includes:
-- === Main menu ===
-    - [1]: Option 1
-        - === Sub menu 1 ===
-            [1]: Option 1.1
-            [2]: Option 1.2
-            [B]: Back
-    [2]: Option 2
-             === Sub menu 2 ===
-            [1]: Option 2.1
-            [2]: Option 2.2
-            [B]: Back
-    [S]: System Information
-            Python version
-            Requirements
-    [H]: Help
-            Print Help + Tips & Tricks
-    [Q]: Quit
-            Exit program/script
+- Menu with 2 submenus
+- System Information
+- Help
+- clear screen module
 
-
-## Why does this script exist ?
-
-## Requirements
-
-## Useful links
-
-## License
-
-
-
-
-
-
-
-
-
-
+### Menu
+Below is the treesctructure of the menu
 
     === Main menu ===
     [1]: Option 1
@@ -73,6 +43,26 @@ Please notice, that there are 2 way 2 navigate back to the main menu:
             print('\n Option 1.2')
             input('\nTo return to {}Main Menu{} hit {}<Enter>'.format(Fore.CYAN, Style.RESET_ALL, Fore.MAGENTA))
             main_menu() # Returning to the main menu
+
+## Why does this script exist ?
+
+## Requirements
+
+## Useful links
+
+## License
+
+
+
+
+
+
+
+
+
+
+
+
 
 Have fun!
 
