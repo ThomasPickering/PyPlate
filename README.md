@@ -55,7 +55,7 @@ Please notice, that there are 2 way 2 navigate back to the main menu:
         input('\nTo return to {}Main Menu{} hit {}<Enter>'.format(Fore.CYAN, Style.RESET_ALL, Fore.MAGENTA))
         main_menu() # Returning to the main menu
 ```
-### Clear scrren
+### Clear screen
 Before the main menu is called, the screen is cleared. the defifition is in the `modules.py` file.
 ```python
 def cls():
@@ -73,7 +73,6 @@ def cls():
 * 1.1
     * Updated README.md file
     * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 1.0
     * Initial Release
 
