@@ -1,5 +1,44 @@
 # PyPlate
-PyPlate is an attempt to make a python boilerplate. The boilderplate includes:
+PyPlate is an attempt to make a python cli boilerplate.
+
+The boilderplate includes:
+- === Main menu ===
+    - [1]: Option 1
+        - === Sub menu 1 ===
+            [1]: Option 1.1
+            [2]: Option 1.2
+            [B]: Back
+    [2]: Option 2
+             === Sub menu 2 ===
+            [1]: Option 2.1
+            [2]: Option 2.2
+            [B]: Back
+    [S]: System Information
+            Python version
+            Requirements
+    [H]: Help
+            Print Help + Tips & Tricks
+    [Q]: Quit
+            Exit program/script
+
+
+## Why does this script exist ?
+
+## Requirements
+
+## Useful links
+
+## License
+
+
+
+
+
+
+
+
+
+
 
     === Main menu ===
     [1]: Option 1
