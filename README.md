@@ -37,7 +37,7 @@ Below is the treesctructure of the menu
 Please notice, that there are 2 way 2 navigate back to the main menu:
 
  - Choice 1 returns to the sub menu
- - Choise 2 returns direcly to the main menu by calling 'main_menu()'
+ - Choise 2 returns direcly to the main menu by calling `main_menu()`
 
 ```python
     if choice == "1":
@@ -51,7 +51,7 @@ Please notice, that there are 2 way 2 navigate back to the main menu:
         main_menu() # Returning to the main menu
 ```
 ### Clear scrren
-Before the main menu is called, the screen is cleared. the defifition is in the 'modules.py' file.
+Before the main menu is called, the screen is cleared. the defifition is in the `modules.py` file.
 ```python
 def cls():
     os.system('cls' if os.name=='nt' else 'clear')
