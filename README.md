@@ -21,7 +21,9 @@ PyPlate is an attempt to make a python boilerplate. The boilderplate includes:
             Exit program/script
 
 Please notice, that there are 2 way 2 navigate back to the main menu:
+
     * Choice 1 returns to the sub menu
+    
     * Choise 2 returns direcly to the main menu
 
         if choice == "1":
