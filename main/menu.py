@@ -15,7 +15,7 @@ title ="""
     |  | --'   \   '  |  | --' |  |\ '-'  |  |  |  \   --. 
     `--'     .-'  /   `--'     `--' `--`--'  `--'   `----' 
              `---'                                         
-                            v{version} by Thomas P. Jørgensen, tpnet.dk 2023\n\n""".format(version='1.0')
+                            v{version} by Thomas P. Jørgensen, tpnet.dk 2023\n\n""".format(version='1.1')
 
 help ="""
  === HELP ===
