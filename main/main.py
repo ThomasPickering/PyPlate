@@ -2,7 +2,7 @@
 # Import build in modules
 
 """
-PyPlate is an attempt to make a python boilerplate. The boilderplate includes:
+PyPlate is an attempt to make a python boilerplate. The boilerplate includes:
 
     === Main menu ===
     [1]: Option 1
@@ -25,7 +25,7 @@ PyPlate is an attempt to make a python boilerplate. The boilderplate includes:
             
 Please notice, that there are 2 way 2 navigate back to the main menu:
     * Choice 1 returns to the sub menu
-    * Choise 2 returns direcly to the main menu
+    * Choice 2 returns directly to the main menu
 
         if choice == "1":
             print('\n Option 1.1')
