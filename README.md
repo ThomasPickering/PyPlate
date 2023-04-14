@@ -11,7 +11,7 @@ The boilderplate includes:
 The scipt started out as my first really Python project. I quickly realised, that I was starting the whole project by doing a kind of boilderplate.
 Therefore - here is my take on a python CLI Boilerplate.
 
-The boilerplate is the product of 1 week of YouTube, Google and Chat GPT-4...
+The boilerplate is the product of 1 week of YouTube, Google and ChatGPT-4...
 
 Please keep in mind that I am new to Python (at the time of writing), which means there are probably quite a few improvements that could be added to the script.
 
@@ -66,7 +66,7 @@ def cls():
 ```
 
 ## Requirements
-- Python v.3.10
+- Python v3.10
 - Colorama v0.4.6
 
 ## Useful links
